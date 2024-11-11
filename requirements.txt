@@ -1,2 +1,10 @@
+torch
 transformers
+pillow
+opencv-python
+numpy
+matplotlib
+tqdm
+python-dotenv
+openai
 einops
