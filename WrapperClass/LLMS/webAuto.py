@@ -13,7 +13,7 @@ class WebDevAutomator:
         load_dotenv()
         self.api_key = os.getenv('OPENAI_API_KEY')
         self.client = OpenAI(api_key=self.api_key)
-        self.base_dir = r'C:\Users\shiva\Desktop\DEVIN\output'
+        self.base_dir = r'C:\Users\shiva\Desktop\DEVIN\output' # use your own base directory where you want to store your output file
         self.project_name = datetime.now().strftime("%Y%m%d_%H%M%S")
         
         # Initialize OpenAI assistant
