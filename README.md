@@ -48,7 +48,7 @@ A comprehensive automation system that combines computer vision capabilities wit
 1. **Clone Repository**
    ```bash
    git clone <repository-url>
-   cd ai-task-automation
+   cd DEVIL
    ```
 
 2. **Create Virtual Environment**
